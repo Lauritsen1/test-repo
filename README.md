@@ -1,4 +1,4 @@
 # Demo Projekt
 
 * Hej Nicklaz :) din fjollerik.
-* Nicklaz er fjollet >:(
+* Nicklaz er C00L
